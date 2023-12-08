@@ -7,11 +7,11 @@ trap 'printf "\n";stop' 2
 
 banner() {
 clear
-printf '\n       ██   ██  ██████  ██    ██ ███    ██ ██████ \n' 
-printf '       ██   ██ ██    ██ ██    ██ ████   ██ ██   ██ \n'
-printf '       ███████ ██    ██ ██    ██ ██ ██  ██ ██   ██ \n'
-printf '       ██   ██ ██    ██ ██    ██ ██  ██ ██ ██   ██ \n'
-printf '       ██   ██  ██████   ██████  ██   ████ ██████  \n\n'
+printf '\n     ███████     ████████   ███        ███   ██████████     ██ \n' 
+printf '       ██   ██     ██           ██      ██         ██         ██     \n'
+printf '       ███████     ████████      ██    ██          ██         ██   \n'
+printf '       ██    ██    ██             ██  ██           ██         ██     \n'
+printf '       ██      ██  ████████        ████        ██████████     ██████████  \n\n'
 printf '\e[1;31m       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n'                                                                                
 printf " \e[1;93m      REvilHound Ver 0.2 - by Saksham Malik [REvilHackers]\e[0m \n"
 printf " \e[1;92m      revilhackers.org | youtube.com/REvilHound \e[0m \n"
